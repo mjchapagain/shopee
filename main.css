@@ -1,0 +1,64 @@
+.contain {
+    object-fit: contain;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.min-height-600 {
+    min-height: 600px;
+}
+
+.margin-xsm-top {
+    margin-top: 1rem;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.margin-auto {
+    margin: auto;
+}
+
+.margin-top-large {
+    margin-top: 4rem;
+}
+
+.margin-sm {
+    margin: 10px;
+}
+
+.align-self-center {
+    align-self: center;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.bottom {
+    bottom: 1rem;
+}
+
+.font-color-black {
+    color: black;
+}
+
+.font-color-white {
+    color: white;
+}
+
+.font-size-md {
+    font-size: 30px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
